@@ -1,0 +1,2 @@
+# AnketUygulama
+Ödev için “Kişi- Hobi Anket Uygulaması” temalı uygulama C# programlama dili ile yapılmıştır. Yapılan uygulamada birden fazla form sayfası kullanılmıştır. Ödevde olması istenilen “Menü” , “Araç Çubuğu” , “Notify Icon” özellikleri eklenmiştir. Kayıt ekleme, kayıt arama, kayıt güncelleme, kayıt silme, tarih ve saate göre sorgulama işlemleri uygulamaya dahil edilmiştir. Veri tabanı olarak internet üzerinden kullanılabilen “Firebase” seçilmiştir. 
